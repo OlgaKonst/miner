@@ -1,0 +1,48 @@
+.contaner {
+    width: 700px;
+    margin: 50px auto;
+}
+
+button {
+    border-radius: 5%;
+    font-size: 26px;
+    padding:10px 20px;
+    width: 200px;
+    margin-left: 250px;
+}
+
+p {
+    text-align: center;
+}
+td {
+    width: 30px;
+    height: 30px;
+    empty-cells: show;
+    padding: 3px;
+    border: 2px solid blue;
+    background-color: #B0E0E6;
+}
+table {
+    border-collapse:collapse;
+    text-align: center;
+    margin-left: 60px;
+}
+.openCard {
+  background-color: white;
+}
+#field {
+    width: 500px;
+    margin: 50px auto;
+
+
+}
+
+.bomb {
+    background: url(http://s020.radikal.ru/i706/1603/ee/83a260cb91ce.png) no-repeat center;
+}
+
+.message{
+    font-size: 26px;
+    margin: 10px;
+
+}
